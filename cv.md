@@ -42,3 +42,6 @@ Wholesale
 The company was engaged in trade in confectionery. My job was to sell products.
 
 ---
+# EDUCATION
+### sept 2009 - jun 2015
+#### Belarusian State Technological University. Studied as an economist-manager
