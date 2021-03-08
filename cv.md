@@ -49,7 +49,7 @@ The company was engaged in trade in confectionery. My job was to sell products.
 ### English - Intermediate b2
 
 # PROFICIENCY|        
-| Tables        |          |0-10 (10 MAX) |
+|         |          |0-10 (10 MAX) |
 | ------------- |:-------------:| -----:|
 | OS    | WINDOWS | 9 |
 |   OS  | MAC Os X      |   6 |
