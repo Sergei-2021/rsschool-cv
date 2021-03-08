@@ -33,6 +33,8 @@ Wholesale
 The focus of the company is based on the sale of alcoholic beverages both in bulk and in retail chains. I worked for a company with retail chains
 
 ## INDIVIDUAL ENTEPRENEUR
+init: start youtube-task
+init: start mentor-dashboard task
 #### july 2013- may 2015 
 Wholesale
 
