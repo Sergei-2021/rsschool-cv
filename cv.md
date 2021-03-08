@@ -45,3 +45,16 @@ The company was engaged in trade in confectionery. My job was to sell products.
 # EDUCATION
 ### sept 2009 - jun 2015
 #### Belarusian State Technological University. Studied as an economist-manager
+# LANGUAGE
+### English - Intermediate b2
+
+# PROFICIENCY|        
+| Tables        |          |0-10 (10 MAX) |
+| ------------- |:-------------:| -----:|
+| OS    | WINDOWS | 9 |
+|   OS  | MAC Os X      |   6 |
+| Office| WORD    |    8 |
+ | Office | EXCEL     |   8  | 
+| Office| POWER POINT    |    7|
+| 3D | PHOTOSHOP    |    6|
+| 3D | INDESIGN   |    4 |
