@@ -17,3 +17,28 @@ Phone      | +375447955968
 Email | sergei.kovchyr@gmail.com     
 | Skype | sergeikovchyr     
 | Faceebook | Сергей Ковчур
+
+---
+
+
+# WORK EXPERIENCE
+
+## INDIVIDUAL ENTEPRENEUR
+#### june 2018- until today
+Wholesale
+
+## SALES MANAGER, OOO Bulbash, https://bulbash.com/
+#### may 2015- june 2018  
+The focus of the company is based on the sale of alcoholic beverages both in bulk and in retail chains. I worked for a company with retail chains
+
+## INDIVIDUAL ENTEPRENEUR
+init: start youtube-task
+init: start mentor-dashboard task
+#### july 2013- may 2015 
+Wholesale
+
+## SALES MANAGER, OOO Distribution formula
+#### june 2010- july 2013 
+The company was engaged in trade in confectionery. My job was to sell products.
+
+---
